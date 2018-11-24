@@ -1,0 +1,19 @@
+{
+  "name": "mytsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsn286430393/my-ts-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsn286430393/my-ts-project/issues"
+  },
+  "homepage": "https://github.com/lsn286430393/my-ts-project#readme"
+}
